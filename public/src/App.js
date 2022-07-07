@@ -8,7 +8,7 @@ function App() {
      <Router>
      <Routes>
       <Route path= "/:id" component={UserPage}/>
-      {/* <Route path=":id" element={<Navigate replace to="/Dikshant-mathur"/>} /> */}
+      {/* <Route path=":id" element={<Navigate replace to="/Ayushisharma5"/>} /> */}
         
       {/* <Redirect to ={'/akkySrivastava'}/> */}
      </Routes>

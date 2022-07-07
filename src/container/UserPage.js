@@ -25,7 +25,7 @@ function UserPage() {
     if (NewName) {
       setName(NewName);
     } else {
-      setName("Dikshant-mathur");
+      setName("Ayushisharma5");
     }
   }, []);
 
